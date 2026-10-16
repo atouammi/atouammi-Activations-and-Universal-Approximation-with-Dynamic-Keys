@@ -221,3 +221,6 @@ __marimo__/
 
 # Project-specific
 article/
+
+# macOS
+.DS_Store
